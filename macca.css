@@ -1,0 +1,26 @@
+body{
+
+		background-image: url(maca.jpeg);
+		background-repeat: 1;
+		margin-top: 0%
+
+
+
+
+}
+
+main{
+
+		width: 40%;
+		height: 900px;
+		margin:auto;
+		background-color:black;
+		text-align: center;
+		padding: 10px;
+		font-family:sans-serif;
+		color: white;
+
+
+
+
+}
